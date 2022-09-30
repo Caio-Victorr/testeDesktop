@@ -1,7 +1,7 @@
 #define pino 1
 
 void setup() {
-  // put your setup code here, to run once:
+  pinMode(pino, OUTPUT);
 
 }
 
